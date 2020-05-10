@@ -25,10 +25,10 @@ Learning outcomes:
 5. Improve on skills and competencies required to collate and present domain specific, evidence-based insights.
 
 ## Final exam project: 
-The goal of this project is to use NLP and other machine learning algorithms learnedin thiscourse to develop atoolthat can text-mine this database of research articles to gain useful insights about COVID-19 and how we might beable to tackle the outbreak, contain the spreadand flatten the curve.
+The goal of this project is to use NLP and other machine learning algorithms learnedin thiscourse to develop a tool that can text-mine this database of research articles to gain useful insights about COVID-19 and how we might beable to tackle the outbreak, contain the spread and flatten the curve.
 
 Learning outcomes:
-1. Implement functionality to parse natural language biomedical literaturedata according to given constraints and requirements. 
-2. Trainand testmachine learning algorithms (especially unsupervised machine learning algorithms such as clustering, dimensionality reduction, recommender systems, association rules,etc.)in order to gain insights or answer the overarching question chosen to pursue for this project.
+1. Implement functionality to parse natural language biomedical literature data according to given constraints and requirements. 
+2. Train and test machine learning algorithms (especially unsupervised machine learning algorithms such as clustering, dimensionality reduction, recommender systems, association rules,etc.)in order to gain insights or answer the overarching question chosen to pursue for this project.
 3. Understand how to apply machine learning algorithms to the task of learning from a large corpus of biomedical research text.
 4. Improve on skills and competencies required to collate and present domain specific, evidence-based insights. Particularly, in this case to gain insights and guide the fight against the COVID-19 pandemic.
